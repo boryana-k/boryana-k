@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
 
+<i> 👩🏻‍💻 My name is <b>Boryana</b>.  <br>
+ ✌🏼 23 years old. <br>
+  🌱 I’m currently learning <u>JavaScript</u>. <br>
+  ✨ Love reading books, playing sports & going out. <br>
+  📬 How to reach me:
+        [Twitter](https://twitter.com/boryanamk) |
+        [LinkedIn](https://www.linkedin.com/in/boryana-krysteva/) |
+        <a href = "mailto: boryana.mk@outlook.com">Mail</a> <br>
+</i>
 <!--
 **boryana-k/boryana-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
