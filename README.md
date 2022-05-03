@@ -7,6 +7,6 @@
   📬 How to reach me:
         [Twitter](https://twitter.com/boryanamk) |
         [LinkedIn](https://www.linkedin.com/in/boryana-krysteva/) |
-        <a href = "mailto: boryana.mk@outlook.com">Mail</a> <br>
+        <a href = "mailto: boryana.mk@outlook.com" target="_blank">Mail</a> <br>
 </i>
 
