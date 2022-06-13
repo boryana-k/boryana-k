@@ -1,8 +1,8 @@
 # 💫About Me :
-Hello👋🏼
-My name is Boryana. 23 years old.
-👩🏻‍💻 Front-End Developer
-💻 I'm currently working on my portfolio
+Hello👋🏼 
+My name is Boryana. 23 years old. <br>
+👩🏻‍💻 Front-End Developer <br>
+💻 I'm currently working on my portfolio 
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/boryana.mk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boryana-krysteva) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/boryanamk) 
